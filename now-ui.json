@@ -1,0 +1,8 @@
+{
+	"components": {
+	    "now-demo": {
+	        "innerComponents": []
+	    }
+	},
+	"scopeName": "x_now_demo"
+}
